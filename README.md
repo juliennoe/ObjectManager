@@ -22,6 +22,10 @@ A Unity Editor tool to help developers and artists track favorite and recently s
 - Use the buttons to start/stop tracking or reset lists.
 - Hover over items to interact, remove, or select them.
 
+```json
+"com.juliennoe.objectmanager": "https://github.com/juliennoe/objectmanager.git"
+```
+
 ## 🧑‍💻 Author
 
 Julien Noé — [GitHub](https://github.com/juliennoe)
