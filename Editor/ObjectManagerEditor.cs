@@ -4,6 +4,8 @@ using UnityEditorInternal;
 using UnityEngine;
 using System.Linq;
 
+namespace JulienNoe.Tools.ObjectManager
+{
 // This attribute ensures the class initializes when Unity loads
 [InitializeOnLoad]
 public class ObjectManagerEditor : EditorWindow
@@ -360,3 +362,4 @@ public class ObjectManagerEditor : EditorWindow
         recentObjects = recentObjects.Where(o => o != null).ToList();
         favoriteObjects = favoriteObjects.Where(o => o != null).ToList();
     }
+}
