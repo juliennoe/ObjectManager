@@ -1,6 +1,6 @@
 {
   "name": "com.juliennoe.objectmanager",
-  "version": "2023.1.0",
+  "version": "1.0.0",
   "displayName": "Object Manager Editor",
   "description": "A Unity Editor tool to manage and track favorite and recently selected assets with persistence and reorderable UI.",
   "unity": "2021.3",
